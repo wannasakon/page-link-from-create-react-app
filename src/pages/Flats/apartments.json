@@ -1,0 +1,30 @@
+[
+  {
+    "id": "04b52bb3-60ff-493c-8d31-8e51f4e48099",
+    "title": "รัชฎากาญจน์ Ratchadakarn",
+    "location": "โฮมออฟฟิศ 4 ชั้น 2 ห้องนอน 5 ห้องน้ำ 2 ที่จอดรถ บนถนนรัชดาภิเษก",
+    "imageUrl": "https://img.home.co.th/images/img_v/img_Directory/20190802-144805135-222.jpg",
+    "detail":"https://www.home.co.th/home/ratchadakarn-3356"
+  },
+  {
+    "id": "792365d4-af0d-494c-85b6-499f028c52ff",
+    "title": "ลาดพร้าว-เหม่งจ๋าย Space Ladprao-Mengjai",
+    "location": "ทาวน์โฮม 3-3.5 ชั้น 3 ห้องนอน 4 ห้องน้ำ 2 ที่จอดรถ บนถนนประชาอุทิศ (เหม่งจ๋าย)",
+    "imageUrl": "https://img.home.co.th/images/img_v/img_Directory/20190314-090422709-b.jpg",
+    "detail":"https://www.home.co.th/home/space-ladprao-mengjai-4411"
+  },
+  {
+    "id": "98a54a2e-dcb4-4290-80e2-28cbb2087564",
+    "title": "พาร์ค พรีว่า Parc Priva",
+    "location": "บ้านเดี่ยว 3 ชั้น 4 ห้องนอน 4 ห้องน้ำ 2-3 ที่จอดรถ บนถนนเทียมร่วมมิตร",
+    "imageUrl": "https://img.home.co.th/images/img_v/img_Directory/20170317-091354675-Untitled-3.jpg",
+    "detail":"https://www.home.co.th/home/parc-priva-5319"
+  },
+  {
+    "id": "3744b3f7-2666-4fc1-a3b9-0172432842bc",
+    "title": "บริติช พาร์ค ทวีวัฒนา British Park Taweewatana",
+    "location": "บ้านเดี่ยว 2 ชั้น 3-4 ห้องนอน 4-5 ห้องน้ำ 2-3 ที่จอดรถ บนถนนทวีวัฒนา",
+    "imageUrl": "https://img.home.co.th/images/img_v/img_Directory/20170113-132544725-Untitled-1.jpg",
+    "detail":"https://www.home.co.th/home/british-park-taweewatana-3089"
+  }
+]
